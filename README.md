@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IJAZ13
 - 👀 I’m interested in programming
-- 🌱 I graduate in B.E mechanical engineering
+- 🌱 I am graduate in B.E mechanical engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ijazngy@gmail.com
 
